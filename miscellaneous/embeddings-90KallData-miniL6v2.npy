@@ -1,0 +1,3 @@
+hasil embedding seluruh dokumen menggunakan SBERT all-MiniLM-L6-v2
+maps texts into a 384-dimensional dense vector space
+too big
