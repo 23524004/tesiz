@@ -1,0 +1,13 @@
+cluster,label,coherence,n_docs,n_words
+-1,"network neural, deep network, neural network, deep feature, network deep, deep neural, neural machine, convolutional network, deep cnn, classification network",0.6361603190992545,21203,8
+0,"neural network, forecasting time, stock prediction, deep network, sery forecasting, deep neural, classification algorithm, recurrent network, energy forecasting, power prediction",0.41570808138043697,1213,13
+1,"collaborative filtering, recommendation algorithm, recommendation system, recommender system, collaborative recommendation, recommendation recommender, recommendation collaborative, recommendation accuracy, recommendation recommendation, personalized recommendation",0.5280036814825171,1122,8
+2,"adversarial network, network adversarial, adversarial machine, adversarial detection, adversarial neural, adversarial attack, attack adversarial, detecting adversarial, adversarial deep, adversarial defense",0.4533451409602763,2064,9
+3,"neural language, natural language, language processing, neural text, translation neural, language modeling, neural semantic, machine translation, neural translation, recurrent network",0.4748049947175806,10529,11
+4,"evolutionary algorithm, algorithm evolutionary, heuristic algorithm, heuristic search, genetic algorithm, metaheuristic algorithm, programming algorithm, evolutionary programming, search heuristic, evolutionary computation",0.36091698932315747,1502,8
+5,"bayesian reinforcement, online reinforcement, bandit algorithm, deep reinforcement, policy iteration, linear bandit, stochastic bandit, model-based reinforcement, bandit problem, multi-agent reinforcement",0.3331845089329169,4877,13
+6,"image generative, generative image, generative network, generative neural, training generative, deep generative, generative adversarial, network generative, adversarial generative, gan generative",0.46660220684625164,1630,8
+7,"facial recognition, face recognition, face image, facial image, recognition face, face feature, visual recognition, visual face, facial feature, face representation",0.399320308698456,2778,7
+8,"deep network, deep image, network deep, convolutional network, network neural, deep feature, deep cnn, neural network, deep neural, network convolutional",0.7033331166434802,25874,7
+9,"bayesian network, network bayesian, bayesian inference, inference bayesian, probabilistic inference, probabilistic network, bayesian structure, bayesian belief, causal bayesian, network inference",0.4869391802346849,1250,7
+10,"reasoning system, constraint programming, programming constraint, constraint language, constraint program, set programming, constraint solver, constraint system, set constraint, constraint solving",0.45666752239464997,2162,9

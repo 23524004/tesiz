@@ -1,0 +1,13 @@
+cluster,label,coherence,n_docs,n_words
+-1,"image, recognition, object, detection, task, neural, classification, feature, cnn, system",0.5272399866278211,21203,10
+0,"system, predictive, machine, neural, classification, prediction, feature, problem, decision, detection",0.3602218839222017,1213,10
+1,"item, problem, ranking, collaborative, task, recommender, machine, system, prediction, feature",0.36190111227622557,1122,10
+2,"detection, neural, image, classification, security, classifier, input, adversarial, machine, system",0.4139284530701738,2064,10
+3,"neural, language, sentence, task, recognition, processing, word, text, classification, feature",0.4062105628869695,10529,10
+4,"problem, task, planning, evolutionary, design, heuristic, system, solve, solution, strategy",0.3231916330765251,1502,10
+5,"task, game, action, reinforcement, decision, reward, planning, control, work, markov",0.41415721502633146,4877,10
+6,"generative, sample, image, neural, generated, task, input, representation, generate, translation",0.34769535701921106,1630,10
+7,"image, recognition, neural, object, task, detection, feature, visual, cnn, classification",0.3682734080162036,2778,10
+8,"recognition, image, neural, detection, classification, object, cnn, prediction, segmentation, feature",0.526768224862576,25874,10
+9,"inference, bayesian, structure, probabilistic, probability, complexity, present, discovery, random, problem",0.38389198112725553,1250,10
+10,"logic, reasoning, problem, answer, solver, system, program, decision, inference, language",0.35820478153464086,2162,10
